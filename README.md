@@ -1,4 +1,4 @@
-# dns-questioner
+# DNS Questioner
 Tool for questioning the 8.8.8.8 Google's DNS
 
 # Usage
