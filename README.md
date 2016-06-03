@@ -3,10 +3,10 @@ Tool for questioning the 8.8.8.8 Google's DNS
 
 # Usage
 
-Simply compile/run the jar, and use it with any hostname
+Simply compile/run the jar, and use it with any hostname:
 
     ./java -jar dns-questioner vuzi.fr
-    
+
     Request > 
     db 42 01 00 00  01 00 00 00 00  
     00 00 01 67 08  76 69 6c 6c 65  
